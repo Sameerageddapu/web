@@ -1,0 +1,56 @@
+{"basics":
+{
+  "image":"girl-512.png",
+  "name":"webapps",
+  "phone_num":"+91-999999999",
+  "email":"saimadhurichunduri@gmail.com",
+  "address":"SRKR COLLEGE,BVRM"
+},
+"careerobjective":
+{
+  "info":" enhance my knowledge and utilizing my skills towards the growth of the organization "
+},
+"education":
+[
+{
+  "degree":"Btech",
+  "institute":"SRKR",
+  "data":["2016-2020","91%"]
+},
+{
+  "degree":"intermediate",
+  "institute":"Narayana",
+  "data":["2014-2016","98%"]
+},
+{
+  "degree":"SSC",
+  "institute":"Akshara",
+  "data":["2013-2014","97%"]
+}
+],
+"TechnicalSkills":[
+{
+  "title":"Languages",
+  "data":["C","C++","Java","Python"]
+},
+{
+  "title":"Databases",
+  "data":["MySQL","Oracle","SQL"]
+},
+{
+"title":"Operating Systems",
+"data":["Windows","Linux","ubuntu"]
+}
+],
+"Achievements":[
+  {
+  "type":"Soft Skills",
+  "data":["BEC,Vantage,B1 grade"]
+},
+{
+  "type":"Workshops",
+  "data":["Big Data","MEAN Stack","PWA"]
+}
+]
+
+}
